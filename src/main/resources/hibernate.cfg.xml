@@ -1,0 +1,9 @@
+<hibernate-configuration>
+  <session-factory>
+    <property name="hibernate.connection.driver_class">oracle.jdbc.OracleDriver</property>
+    <property name="hibernate.connection.url">aquiVaLaURL</property>
+    <property name="hibernate.connection.username">Usuario</property>
+    <property name="hibernate.connection.password">contraseña</property>
+    <property name="hibernate.dialect">org.hibernate.dialect.Oracle12cDialect</property>
+  </session-factory>
+</hibernate-configuration>
