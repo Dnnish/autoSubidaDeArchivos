@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c74b125-1062-4498-991a-e3549cfd73a8" name="Changes" comment="primer commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/autosubidadearchivo/DataLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/autosubidadearchivo/common/utils/ExcelUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/autosubidadearchivo/common/utils/ExcelUtilsHelpers/enums/ExcelType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/autosubidadearchivo/common/utils/ExcelUtilsHelpers/exception/ExcelException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/autosubidadearchivo/common/utils/ExcelUtilsHelpers/exception/ExcelStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/autosubidadearchivo/service/IFileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/autosubidadearchivo/service/impl/FtpService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/localtest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/autosubidadearchivo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/autosubidadearchivo/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7c74b125-1062-4498-991a-e3549cfd73a8" name="Changes" comment="primer commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686044047019</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="primer commit">
+      <created>1686044186624</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686044186624</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
