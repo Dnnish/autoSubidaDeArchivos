@@ -16,10 +16,10 @@ public class Main {
         public static void main(String[] args) throws IOException{
             //1. Init services {File}
             IFileService fileService = FtpService.builder()
-                    .host("10.0.0.22")
+                    .host("ipaqui")
                     .port(21)
-                    .username("dmkt")
-                    .password("zl<M(+Ek74")
+                    .username("username")
+                    .password("password")
                     .build();
 
             // Data Loader
